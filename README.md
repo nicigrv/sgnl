@@ -20,6 +20,12 @@ Bitte teilt uns mit, wenn euer Kind für längere Zeit vom Training ausfällt.
 
 ## Chat
 
+Über den Chat könnt ihr mit den Trainern oder anderen Schwimmern Kommunizieren.&#x20;
+
+Um einer bestimmten Person zu schreiben, klickt Links unten auf das Plus und wählt dort die Untergruppe oder die Hauptgruppe aus, hier könnt ihr nun die Person oder Personen auswählen, mit denen ihr einen Chat starten wollt.&#x20;
+
+Unsere Mitteilungen kommen nicht über den Chat, diese werden über den Tab Neuigkeiten kommuniziert. Hier werdet ihr alle Benachrichtigt und könnt auf diese Beiträge kommentieren.&#x20;
+
 ## Sicherheit
 
 Wir empfehlen auch als Eltern ein sicheres Passwort zu wählen, am besten mindestens 8 Zeichen sowie mindestens ein Sonderzeichen oder eine Zahlenkombination.
