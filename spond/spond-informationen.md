@@ -1,11 +1,11 @@
 # Spond - Informationen
 
-Für unsere Bambini und Freizetgruppen nutzen wir seit September 2024 die App "Spond" zur Kommunikation mit den Eltern sowie zum zu-/absagen von Trainings oder Veranstaltungen.&#x20;
+Für unsere Bambini- und Freizeitgruppen nutzen wir seit September 2024 die App "Spond" zur Kommunikation mit den Eltern sowie zur Zu- oder Absage von Trainings oder Veranstaltungen.
 
-Auf den nächsten Seiten können ausführliche Informationen und Hilfestellungen zur Nutzung von Spond gefunden werden.&#x20;
+Auf den nächsten Seiten findet ihr ausführliche Informationen und Hilfestellungen zur Nutzung von Spond.
 
-Zur Verwendung von Spond ist es erfolderlich, Spond aus dem App oder Google Play store herunterladen. Nach dem Herunterladen ist es erforderlich, ein Konto mit dem Namen, der E-Mail Adresse und der Handy Nummer eines Erziehungsberechtigten zu erstellen.&#x20;
+Zur Verwendung von Spond ist es erforderlich, die App aus dem App Store oder Google Play Store herunterzuladen. Nach dem Herunterladen ist es notwendig, ein Konto mit dem Namen, der E-Mail-Adresse und der Handynummer eines Erziehungsberechtigten zu erstellen.
 
 {% hint style="info" %}
-Zur Teilnahme am Trainingstebtrieb in den Bambnins oder der Freizeitgruppe ist das Herunterladen und Registrieren in der App zwingend notwendig.&#x20;
+Zur Teilnahme am Trainingsbetrieb in den Bambinis oder der Freizeitgruppe ist das Herunterladen und Registrieren in der App zwingend notwendig.
 {% endhint %}
