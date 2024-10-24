@@ -17,3 +17,15 @@ Zur Registrierung benötigt ihr einen Code, diesen erhaltet ihr von dem Trainer 
 Das zu- und absagen wird immer 7 Tage im vorhinein Freigeschaltet und ihr könnt für eure Kind das zu-/absagen übernehmen. Bitte denkt dran, rechtzeitig eine Entscheidung zu treffen, um uns eine Trainingsplanung zu erleichtern.&#x20;
 
 Bitte teilt und mit, wenn euer Kind für längere Zeit vom Training ausfällt.&#x20;
+
+## Chat
+
+
+
+
+
+## Sicherheit&#x20;
+
+Wir empfehlen auch als Eltern ein sicheres Passwort zu wählen, am besten mindestens 8 Zeichen und mindestens ein Sonderzeichen oder Zahlenkombinationen.&#x20;
+
+Die 2-Faktor-Authentifizierung könnt ihr zur Sicherheit des Spond Accounts aktivieren. Dazu bekommt ihr bei jedem Login einen Code an eure Handynummer gesendet und müsst diesen in das Login Feld eingeben.&#x20;
